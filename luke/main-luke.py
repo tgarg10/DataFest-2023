@@ -4,7 +4,7 @@ import csv
 # given an attorney UNO return their highest answered catagory 
 def expertise(attorney_UNO):
     common_catagory_UNO = ''
-    return find_catagory_name(common_catagory_UNO) 
+    # return find_catagory_name(common_catagory_UNO) 
 
 
 # given a list of strings, returns the most common string. 
@@ -25,7 +25,7 @@ def build_subcatagory_frequency(lst):
 def build_subcatagories(attorney_UNO):
     subcatagories  = []
 
-    with open('test-data/test-questions.csv', 'r') as file:
+    with open('test-data\\test-questions.csv', 'r') as file:
         reader = csv.reader(file)
         for row in reader:
              if(row[9] == attorney_UNO):
