@@ -1,4 +1,5 @@
 def main(): 
     print('hello big boy')
-
-main()
+    
+if __init__ == "__main__":
+    main()
