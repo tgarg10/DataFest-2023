@@ -18,9 +18,9 @@ We obtained our dataset from the American Bar Association (ABA). This dataset co
 ## Project Goals
 Our project had two primary objectives:
 
-Demographic Analysis: We aimed to understand how different demographic groups (race, gender, and ethnicity) interacted with the ABA's information. By identifying trends, we hoped to improve the ABA's outreach and services to diverse communities.
+**Demographic Analysis:** We aimed to understand how different demographic groups (race, gender, and ethnicity) interacted with the ABA's information. By identifying trends, we hoped to improve the ABA's outreach and services to diverse communities.
 
-FAQ Generation: We used machine learning and AI techniques to generate a list of frequently asked questions (FAQs) based on the questions asked by users. This would serve as a valuable resource for users seeking quick answers to common queries.
+**FAQ Generation:** We used machine learning and AI techniques to generate a list of frequently asked questions (FAQs) based on the questions asked by users. This would serve as a valuable resource for users seeking quick answers to common queries.
 
 ## Technologies Used
 We harnessed the power of several technologies to accomplish our goals, including:
